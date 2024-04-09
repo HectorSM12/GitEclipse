@@ -6,6 +6,8 @@ public class PruebasGit {
 			System.out.println("Hola Git");
 			
 			int variable = 5;
+			
+			System.out.println(variable);
 
 	}
 
